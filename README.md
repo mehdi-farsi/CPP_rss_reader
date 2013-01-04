@@ -1,7 +1,7 @@
-CPP RSS Reader
+RSS Reader
 ==============
 
-Simple RSS Reader in C++ using TinyXML library
+Simple RSS Reader in C++ using TinyXML library.
 
 ##Usage:##
 
