@@ -5,13 +5,12 @@ Simple RSS Reader in C++ using TinyXML library.
 
 ##Usage:##
 
-```./rss_reader XML_FILENAME```
+```./rss_reader XML_FILENAME ...```
 
 
 
 ##Under development:##
 
-- Multi-file
 - Better compatibility with RSS2
 - GUI with Qt4
 
