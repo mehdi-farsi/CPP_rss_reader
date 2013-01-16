@@ -3,6 +3,10 @@ RSS Reader
 
 Simple RSS Reader in C++ using TinyXML library.
 
+##Required:##
+
+```apt-get install libtinyxml2.6.2```
+
 ##Usage:##
 
 ```./rss_reader XML_FILENAME ...```
